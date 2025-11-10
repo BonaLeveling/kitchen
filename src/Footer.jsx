@@ -51,7 +51,7 @@ function Footer() {
                 </div>
                 <div className='text-sm border-t border-black/30 mt-8 md:flex md:justify-between md:flex-wrap'>
                     <p className='mt-4'>
-                     @2025 - Chef's kitchen. All Rights Reserved by Bonaventure and<a href="" className='hover:text-[#de6752] hover:underline'>GetNextjsTemplates</a> 
+                     @2025 - Chef's kitchen. All Rights Reserved by Bonaventure and  <a href="" className='hover:text-[#de6752] hover:underline'>GetNextjsTemplates</a> 
                     </p>
                     <div className='mt-4 flex gap-4'>
                         <a href="" className='hover:text-[#de6752] hover:underline'>Privacy policy</a>
